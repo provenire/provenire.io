@@ -1,8 +1,8 @@
 # Site settings
-name: Antiquarium
+name: Provenire
 description: Antiquities Trade Intelligence
 baseurl: ""
-url: "https://www.antiquarium.io"
+url: "https://www.provenire.io"
 permalink: /:year/:month/:day/:title.html
 
 
